@@ -1,0 +1,8 @@
+"Id";"Identificador";"Huella";"Cantidad";"Identificación";"Suministrador y ref";
+1;"COILS1, SIGNALS1";"PinSocket_1x08_P2.54mm_Vertical";2;"Conn_01x08_Socket";;;
+2;"DIAG1";"PinSocket_1x02_P2.54mm_Vertical";1;"Conn_01x02_Socket";;;
+3;"J1";"JST_PH_S10B-PH-K_1x10_P2.00mm_Horizontal";1;"Conn_01x10_Socket";;;
+4;"J2";"JST_EH_S2B-EH_1x02_P2.50mm_Horizontal";1;"Conn_01x02_Pin";;;
+5;"J3";"JST_EH_S2B-EH_1x02_P2.50mm_Horizontal";1;"Conn_01x02_Socket";;;
+6;"MotorCoils1";"JST_EH_S4B-EH_1x04_P2.50mm_Horizontal";1;"Conn_01x04_Socket";;;
+7;"SpikeProtectionCapacitor";"CP_Radial_D6.3mm_P2.50mm";1;"100uF 35V";;;
