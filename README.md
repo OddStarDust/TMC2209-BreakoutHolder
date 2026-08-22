@@ -5,7 +5,7 @@ TMC2209 plug and play breakout board. The porpuse of this pcb is to make an easy
 [![Hardware: KiCad 8+](https://img.shields.io/badge/KiCad-8.0%2B-blue)](https://www.kicad.org/)
 [![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](#)
 
-An ultra-compact, high-reliability breakout board designed for be holded on to the bottom of stepper motor nema 17 **TMC2209**, **A4988**, and **DRV8825** stepper driver modules (standard StepStick footprint). Engineered for 3D printers, CNC machinery, and custom robotics projects requiring secure connections and transient voltage protection.
+An ultra-compact, high-reliability breakout board designed for be holded on to the bottom of stepper motor nema 17. **TMC2209**, **A4988**, and **DRV8825** stepper driver modules (standard StepStick footprint). Engineered for 3D printers, CNC machinery, and custom robotics projects requiring secure connections and transient voltage protection.
 
 ---
 
