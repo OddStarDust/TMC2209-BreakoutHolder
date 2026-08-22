@@ -13,7 +13,7 @@ An ultra-compact, high-reliability breakout board designed for **TMC2209**, **A4
 
 | Board Top View | 3D Render |
 | :---: | :---: |
-| ![Top View](docs/render_top.png) | ![3D Render](docs/stepdriver.png) |
+| ![Top View](docs/topview.png) | ![3D Render](docs/schematics.png) |
 
 ---
 
