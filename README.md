@@ -1,6 +1,5 @@
 # TMC2209-BreakoutHolder
 TMC2209 plug and play breakout board. The porpuse of this pcb is to make an easy way to test stepper drivers
-markdown_content = """# Ultra-Compact TMC2209 Stepper Driver Breakout Board
 
 [![License: CERN-OHL-W-v2](https://img.shields.io/badge/License-CERN--OHL--W--v2-blue.svg)](https://ohwr.org/cern_ohl_w_v2.txt)
 [![Hardware: KiCad 8+](https://img.shields.io/badge/KiCad-8.0%2B-blue)](https://www.kicad.org/)
